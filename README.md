@@ -2,13 +2,13 @@
 
 I help teams move from **AI curiosity** to **AI-enabled software delivery**.
 
-I work in GitHub Offerings and AI enablement, where my focus is turning fast-moving GitHub Copilot and agentic development capabilities into practical material that teams can actually use: workshops, delivery guidance, demos, field notes, governance discussions, and adoption patterns.
+I work in **GitHub Offerings and AI enablement**, where my focus is turning fast-moving GitHub Copilot and agentic development capabilities into practical material that teams can actually use: workshops, delivery guidance, demos, field notes, governance discussions, and adoption patterns.
 
-The work sits at the intersection of **developer productivity**, **enterprise readiness**, **AI-assisted engineering**, and **enablement at scale**. 
+The work sits at the intersection of **developer productivity**, **enterprise readiness**, **AI-assisted engineering**, and **enablement at scale**.
 
 ---
 
-## What I am focused on
+## 🎯 What I am focused on
 
 - **GitHub Copilot enablement** — helping engineers and organizations understand where Copilot fits across planning, coding, testing, review, and modernization.
 - **AI offerings and delivery content** — building and refining workshops, training paths, demos, labs, speaker notes, and reusable delivery assets.
@@ -18,7 +18,7 @@ The work sits at the intersection of **developer productivity**, **enterprise re
 
 ---
 
-## The kind of problems I like
+## 🧩 The kind of problems I like
 
 I like the middle between **new AI capability** and **real enterprise usage**.
 
@@ -35,7 +35,7 @@ That is the work I enjoy most: taking something new, technical, and sometimes un
 
 ---
 
-## Throughline
+## 🧭 Throughline
 
 | Area | What it means to me |
 | --- | --- |
@@ -47,7 +47,7 @@ That is the work I enjoy most: taking something new, technical, and sometimes un
 
 ---
 
-## How I work
+## 🛠️ How I work
 
 I try to keep things practical.
 
@@ -63,7 +63,7 @@ I care about:
 
 ---
 
-## Current themes
+## 🚀 Current themes
 
 A few areas I keep coming back to:
 
@@ -77,13 +77,13 @@ A few areas I keep coming back to:
 
 ---
 
-## Outside the day job
+## 🌱 Outside the day job
 
-I like learning experimenting with tools, and building small things that help me understand bigger systems. Some projects are polished. Some are experiments. Most are part of the same habit: learn it, break it, rebuild it, explain it better.
+I like learning, experimenting with tools, and building small things that help me understand bigger systems. Some projects are polished. Some are experiments. Most are part of the same habit: learn it, break it, rebuild it, explain it better.
 
 ---
 
-## Connect
+## 🤝 Connect
 
 If you are thinking about GitHub Copilot adoption, AI-assisted software delivery, or how teams should prepare for agentic workflows, I am always happy to compare notes.
 
