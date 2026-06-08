@@ -1,16 +1,90 @@
-## Hi there 👋
+# Abel Berhane
 
-<!--
-**abelberhane/abelberhane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I help teams move from **AI curiosity** to **AI-enabled software delivery**.
 
-Here are some ideas to get you started:
+I work in GitHub Offerings and AI enablement, where my focus is turning fast-moving GitHub Copilot and agentic development capabilities into practical material that teams can actually use: workshops, delivery guidance, demos, field notes, governance discussions, and adoption patterns.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+The work sits at the intersection of **developer productivity**, **enterprise readiness**, **AI-assisted engineering**, and **enablement at scale**. 
+
+---
+
+## What I am focused on
+
+- **GitHub Copilot enablement** — helping engineers and organizations understand where Copilot fits across planning, coding, testing, review, and modernization.
+- **AI offerings and delivery content** — building and refining workshops, training paths, demos, labs, speaker notes, and reusable delivery assets.
+- **Agentic development workflows** — exploring how coding agents, MCP, custom instructions, repository context, and automation change the way teams build software.
+- **Enterprise adoption patterns** — translating governance, security, policy, measurement, and rollout strategy into guidance that is easier for teams to apply.
+- **Operational quality** — keeping offerings current through review loops, diff tracking, quality checks, release awareness, and structured handoff processes.
+
+---
+
+## The kind of problems I like
+
+I like the middle between **new AI capability** and **real enterprise usage**.
+
+That usually means answering questions like:
+
+- Where does this capability fit in the developer workflow?
+- What should a team try first?
+- What needs guardrails before it scales?
+- How do we explain the value without overselling it?
+- How do we keep training material current when the platform keeps changing?
+- How do we make adoption measurable, repeatable, and useful for real developers?
+
+That is the work I enjoy most: taking something new, technical, and sometimes unclear, then turning it into a path a team can follow.
+
+---
+
+## Throughline
+
+| Area | What it means to me |
+| --- | --- |
+| **AI-assisted development** | Helping teams use AI as part of their workflows, not just as a chat window next to the code. |
+| **Copilot adoption** | Moving from individual experimentation to team-level practices, governance, and measurable outcomes. |
+| **Offerings development** | Creating delivery assets that are accurate, usable, current, and easy for other engineers to run. |
+| **Enterprise readiness** | Balancing speed with security, policy, trust, and operational consistency. |
+| **Hands-on enablement** | Teaching through examples, demos, exercises, and practical workflow changes. |
+
+---
+
+## How I work
+
+I try to keep things practical.
+
+The best AI guidance is not just a list of features. It should help a team understand what changed, why it matters, what to try, what to avoid, and how to know whether it is working.
+
+I care about:
+
+- Clear explanations
+- Useful demos
+- Repeatable patterns over one-off wins
+- Governance that helps teams move safely instead of freezing them
+- Training that respects the developer's actual day-to-day work
+
+---
+
+## Current themes
+
+A few areas I keep coming back to:
+
+- Copilot across the full SDLC
+- Agentic workflows and human review loops
+- MCP and tool-using agents
+- Custom instructions and repository context
+- AI governance for enterprise engineering teams
+- Measuring developer productivity and adoption signals
+- Keeping technical enablement content fresh as the platform evolves
+
+---
+
+## Outside the day job
+
+I like learning experimenting with tools, and building small things that help me understand bigger systems. Some projects are polished. Some are experiments. Most are part of the same habit: learn it, break it, rebuild it, explain it better.
+
+---
+
+## Connect
+
+If you are thinking about GitHub Copilot adoption, AI-assisted software delivery, or how teams should prepare for agentic workflows, I am always happy to compare notes.
+
+> Opinions here are my own and do not represent my employer.
